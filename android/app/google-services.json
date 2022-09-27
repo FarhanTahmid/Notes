@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "540924243156",
+    "project_id": "notesbyfarhan",
+    "storage_bucket": "notesbyfarhan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540924243156:android:e6ab1536d147ef76f29f41",
+        "android_client_info": {
+          "package_name": "com.example.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540924243156-qpq6ppvclevqs3rocqfqpo10la85ft4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgyu49gHDMvlRBW5EBr2haf_BhOSEbTt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540924243156-qpq6ppvclevqs3rocqfqpo10la85ft4h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "540924243156-p2ber544ijeharns8379trl2pretbjqe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.notes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
